@@ -1,0 +1,6 @@
+transformers==4.20.1
+datasets==2.2.2
+torch==1.12.0
+accelerate==0.12.0
+bitsandbytes==0.31.0
+peft==0.1.0  # Hypothetical version; replace with the correct one as needed
