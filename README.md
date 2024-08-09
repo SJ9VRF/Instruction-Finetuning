@@ -27,3 +27,11 @@ The objective of this repository is to showcase the fine-tuning process using a 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/FineTuning_Llama3_Legal_Summarization.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd FineTuning_Llama3_Legal_Summarization
+3. **Install the required packages:**
+   ```bash
+   cd FineTuning_Llama3_Legal_Summarization
+
