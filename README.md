@@ -35,3 +35,13 @@ The objective of this repository is to showcase the fine-tuning process using a 
    ```bash
    cd FineTuning_Llama3_Legal_Summarization
 
+## Running the Notebook
+Open the `FineTuning_Llama3_Legal_Summarization.ipynb` notebook in Jupyter and execute the cells to perform fine-tuning and evaluation.
+
+## Dataset
+The project utilizes the "Legal Summarization" dataset, originally sourced from academic publications on legal document summarization. It includes pairs of lengthy legal texts and their summaries, structured to train models for summarization tasks effectively.
+
+## Features
+- **Model Adaptation**: Techniques to adapt Meta-Llama-3-8B-Instruct for summarizing legal texts.
+- **Performance Evaluation**: Metrics and methods to evaluate the model's summarization quality on legal documents.
+- **Fine-Tuning Guidance**: Step-by-step instructions to fine-tune and test large language models on niche datasets.
